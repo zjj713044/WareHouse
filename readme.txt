@@ -1,5 +1,2 @@
-please readme first!
-
-1. xxx
-2. xxx
-3. xxx123
+Git is a distributed 4 version control system.
+Git is free software.
